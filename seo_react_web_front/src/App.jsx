@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import MemberJoin from "./component/common/MemberJoin";
+import MemberJoin from "./component/member/MemberJoin";
 import Header from "./component/common/Header";
 
 function App() {
